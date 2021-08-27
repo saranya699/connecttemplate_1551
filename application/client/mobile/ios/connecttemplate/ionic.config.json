@@ -1,0 +1,7 @@
+{
+  "name": "connecttemplate",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
